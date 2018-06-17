@@ -1,5 +1,5 @@
 # R Reference card
-In these notes, sharing R notes that will help beginners to start with R and also will be helpful for advanced users to refresh concepts.
+Sharing R notes that will help beginners to start and also will be helpful for advanced users to refresh most used concepts.
 
 ## Index
 
